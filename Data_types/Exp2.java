@@ -8,7 +8,7 @@ public class Exp2 {
         double c;
         double d;
         double e;
-	boolean f;
+	    boolean f;
         System.out.print("Enter Account Number: ");
         a = sc.nextInt();
         sc.nextLine();
@@ -18,15 +18,16 @@ public class Exp2 {
         c = sc.nextDouble();
         System.out.print("Enter deposited amount: ");
         d = sc.nextDouble();
-	e =c+d;
-	System.out.println("The new balance is :" + e);
-	f= e>5000;
-	if(f){
-		System.out.println("Minimum balence is maintained");
-	}else{
-		System.out.println("Minimum balence is not maintained");
+		e =c+d;
+		System.out.println("The new balance is :" + e);
+		f= e>5000;
+		if(f){
+			System.out.println("Minimum balence is maintained");
+		}else{
+			System.out.println("Minimum balence is not maintained");
 	}
         
         sc.close();
     }
 }
+
