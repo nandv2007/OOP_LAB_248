@@ -15,14 +15,15 @@ public class Exp1 {
 		double d=a-b;
 		double e=a*b;
 		double f=a/b;     
-		double g=a%b
+		double g=a%b;
         System.out.println("Sum: "+c);
         System.out.println("Difference: "+d);
         System.out.println("Product: "+e);
         System.out.println("Division: "+f);
-		System.out.println("Modulo:"+g)
+		System.out.println("Modulo:"+g);
         sc.close();
     }
 }
+
 
 
