@@ -14,10 +14,13 @@
 
 This repository contains all lab assignments and exercises completed as part of the Object-Oriented Programming (23CSE111) course. Each lab session is organized in separate folders with corresponding programs and documentation.
 
-### Completed Lab Sessions
+### Completed STopics
 1. Basic Java Codes (22.12.2025)
 2. Data Types (29.12.2025)
 3. Data Operators (29.12.2025)
+4. Input Controls (07.01.1026)
+5. Control Statements (08.01.2026)
+   - Selection statements
 
 ## Repository Structure:
 
@@ -43,5 +46,17 @@ This repository contains all lab assignments and exercises completed as part of 
  - Exp3- Assigning new value to variable (Assignment Operators)
  - Exp4- Eligibility to drive (Logical Operators)
 
+### 3.Practice Session 1: 
+ #### 1.Input Controls:
+  - Exp1- Getting Input of different Data Types
+  - Exp2- Sum of two numbers by getting input from the user
+
+### 4.Practice Session 2: 
+ #### 1.Control Statments:
+  ##### > Selection Statements:
+  - Exp1- (if else) Driving liscence eligibility
+  - Exp2- (if elif else) Income Tax
+  - Exp3- (ternary operator) even or odd
+  - Exp4- (switch case) Course faculty name
    
 _**Repository Maintained By:** nandv2007_
