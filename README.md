@@ -21,6 +21,8 @@ This repository contains all lab assignments and exercises completed as part of 
 4. Input Controls (07.01.1026)
 5. Control Statements (08.01.2026)
    - Selection statements
+   - Iteration statements
+   - Jump statements
 
 ## Repository Structure:
 
@@ -58,5 +60,13 @@ This repository contains all lab assignments and exercises completed as part of 
   - Exp2- (if elif else) Income Tax
   - Exp3- (ternary operator) even or odd
   - Exp4- (switch case) Course faculty name
+  ##### > Iteration Statements:
+  - Exp1- (While) Reverse a number
+  - Exp2- (do while) Palindrome
+  - Exp3- (for) fibbonacci
+  ##### > Jump Statements:
+  - Exp1- (break) finding a number in array
+  - Exp2- (continue) printing only positive numbers from an array
+
    
 _**Repository Maintained By:** nandv2007_
