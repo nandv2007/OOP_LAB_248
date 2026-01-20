@@ -14,7 +14,7 @@
 
 This repository contains all lab assignments and exercises completed as part of the Object-Oriented Programming (23CSE111) course. Each lab session is organized in separate folders with corresponding programs and documentation.
 
-### Completed STopics
+### Completed Topics
 1. Basic Java Codes (22.12.2025)
 2. Data Types (29.12.2025)
 3. Data Operators (29.12.2025)
@@ -23,6 +23,9 @@ This repository contains all lab assignments and exercises completed as part of 
    - Selection statements
    - Iteration statements
    - Jump statements
+6. UML Diagrams (20.01.2026)
+   - Use Case Diagram
+   - Sequence Diagram
 
 ## Repository Structure:
 
@@ -67,6 +70,21 @@ This repository contains all lab assignments and exercises completed as part of 
   ##### > Jump Statements:
   - Exp1- (break) finding a number in array
   - Exp2- (continue) printing only positive numbers from an array
+
+### 5.Lab Session 3: 
+ #### UML Daigrams:
+  ##### 1. Use Case Diagrams:
+  -  Library Management System
+  -  Tax Preparation
+  -  Clinic
+  -  Quiz App
+  -  Attendance Management Portal
+  ##### 2. Sequence Diagrams:
+  -  Basic Relations in Sequence Diagram
+  -  Phone Call
+  -  User Login
+  -  Resevations
+  -  Online Order Placement App
 
    
 _**Repository Maintained By:** nandv2007_
