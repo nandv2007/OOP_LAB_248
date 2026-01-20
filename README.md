@@ -18,7 +18,7 @@ This repository contains all lab assignments and exercises completed as part of 
 1. Basic Java Codes (22.12.2025)
 2. Data Types (29.12.2025)
 3. Data Operators (29.12.2025)
-4. Input Controls (07.01.1026)
+4. Input Controls (07.01.2026)
 5. Control Statements (08.01.2026)
    - Selection statements
    - Iteration statements
