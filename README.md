@@ -23,9 +23,11 @@ This repository contains all lab assignments and exercises completed as part of 
    - Selection statements
    - Iteration statements
    - Jump statements
-6. UML Diagrams (20.01.2026)
+6. UML Diagrams (20.01.2026 & 24.01.2026)
    - Use Case Diagram
    - Sequence Diagram
+   - Class Diagram
+   - Object Diagram
 
 ## Repository Structure:
 
@@ -85,6 +87,19 @@ This repository contains all lab assignments and exercises completed as part of 
   -  User Login
   -  Resevations
   -  Online Order Placement App
-
+### 6.Practice Session 3: 
+ #### UML Daigrams:
+  ##### 3. Class Diagrams:
+  -  Bank
+  -  Hospital      
+  -  Railway Ticket Booking System
+  -  Shopping Bill
+  -  Student Course Registration
+  ##### 4. Object Diagrams:
+  -  E-commerce Site
+  -  Clinic
+  -  School Classroom
+  -  Examination System
+  -  Team project work
    
 _**Repository Maintained By:** nandv2007_
