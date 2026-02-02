@@ -28,6 +28,12 @@ This repository contains all lab assignments and exercises completed as part of 
    - Sequence Diagram
    - Class Diagram
    - Object Diagram
+7. Modifiers (31.01.2026)
+   - Access Modifiers
+   - Non-Access Modifiers
+8. Case Study Qns(02.02.2026)
+   - Train Ticket
+   - Shopping Bill
 
 ## Repository Structure:
 
@@ -87,7 +93,7 @@ This repository contains all lab assignments and exercises completed as part of 
   -  User Login
   -  Resevations
   -  Online Order Placement App
-### 6.Practice Session 3: 
+### 6.Lab Session 3: 
  #### UML Daigrams:
   ##### 3. Class Diagrams:
   -  Bank
@@ -101,5 +107,23 @@ This repository contains all lab assignments and exercises completed as part of 
   -  School Classroom
   -  Examination System
   -  Team project work
-   
+
+### 7.Practice Session 3: 
+ #### Modifiers:
+  ##### 1. Access Modifiers:
+  -  Exp1-Public
+  -  Exp2-Private
+  -  Exp3-Default
+  -  Exp4-Protected
+
+  ##### 2. Non-Access Modifiers:
+  -  Exp1-Static
+  -  Exp2-Final
+  -  Exp3-Abstact
+
+### 8.Practice Session 4: 
+ #### Case Study Qns:
+ - Exp1- Train Ticket Booking Portal
+ - Exp2- Shopping bill
+
 _**Repository Maintained By:** nandv2007_
