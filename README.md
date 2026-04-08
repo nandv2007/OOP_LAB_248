@@ -34,6 +34,10 @@ This repository contains all lab assignments and exercises completed as part of 
 8. Case Study Qns(02.02.2026)
    - Train Ticket
    - Shopping Bill
+9. Inheritance (16.02.2026)
+10. Polymorphism (16.03.2026)
+11. Abstraction (30.03.2026)
+12. Encapsulation (06.04.2026)
 
 ## Repository Structure:
 
@@ -126,4 +130,28 @@ This repository contains all lab assignments and exercises completed as part of 
  - Exp1- Train Ticket Booking Portal
  - Exp2- Shopping bill
 
+### 9.Lab Session 4: 
+ #### Inheritance:
+ - Exp1- Car Model
+ - Exp2- Library books
+ - Exp3- Animal class
+
+### 10.Lab Session 6: 
+ #### Polymorphism:
+
+### 11.Lab Session 7: 
+ #### Abstraction:
+ - Exp1- Shape Calulation
+ - Exp2- Employee Salary
+ - Exp3- Banking system
+ - Exp4- Payment Gateway
+ - Exp5- Vehicle Interface system
+
+### 11.Practice Session 7: 
+ #### Encapsulation:
+ - Exp1- Student Details
+ - Exp2- Account Management
+ - Exp3- Employee Record
+ - Exp4- Password security System
+ - Exp5- Product management system
 _**Repository Maintained By:** nandv2007_
