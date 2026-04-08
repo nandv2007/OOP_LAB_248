@@ -38,6 +38,7 @@ This repository contains all lab assignments and exercises completed as part of 
 10. Polymorphism (16.03.2026)
 11. Abstraction (30.03.2026)
 12. Encapsulation (06.04.2026)
+13. Package (09.03.2026)
 
 ## Repository Structure:
 
@@ -147,11 +148,20 @@ This repository contains all lab assignments and exercises completed as part of 
  - Exp4- Payment Gateway
  - Exp5- Vehicle Interface system
 
-### 11.Practice Session 7: 
+### 12.Practice Session 7: 
  #### Encapsulation:
  - Exp1- Student Details
  - Exp2- Account Management
  - Exp3- Employee Record
  - Exp4- Password security System
  - Exp5- Product management system
+
+### 13.Practice Session 8: 
+ #### Packages:
+ - Exp1- Simple package
+ - Exp2- With multiple class
+ - Exp3- with single class
+ - Exp4- with constructor
+ - Exp5- Nested Package
+
 _**Repository Maintained By:** nandv2007_
